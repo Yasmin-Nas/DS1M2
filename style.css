@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient( rgba(255,0,0,0), rgba(255,0,0,1));
+}
+
+h1{
+    color: rgb(8, 8, 8);
+    font-size: 64px;
+    font-style: italic;
+}
